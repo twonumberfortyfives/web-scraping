@@ -12,12 +12,12 @@ HOME_URL = urljoin(URL, "test-sites/e-commerce/static/computers/laptops")
 
 
 logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
+    level=logging.DEBUG,
+    format="[%(asctime)s %(levelname)8s] %(message)s",
     handlers=[
         logging.FileHandler("parser.log"),
         logging.StreamHandler(sys.stdout),
-    ]
+    ],
 )
 
 
@@ -43,7 +43,9 @@ async def parse_single_product(product_soup: BeautifulSoup) -> Product:
         description=product_soup.select_one("p.description").text,
         price=float(product_soup.select_one("h4.price").text.replace("$", "")),
         rating=int(product_soup.select_one("p[data-rating]")["data-rating"]),
-        num_of_reviews=int(product_soup.select_one("p.review-count").text.replace("reviews", "")),
+        num_of_reviews=int(
+            product_soup.select_one("p.review-count").text.replace("reviews", "")
+        ),
     )
 
 
@@ -61,7 +63,9 @@ async def parse_page(last_page: int):
         soup = BeautifulSoup(page_content, "html.parser")
         products = soup.select(".thumbnail")  # calling css selector
 
-        result_of_page = await asyncio.gather(*(parse_single_product(product) for product in products))
+        result_of_page = await asyncio.gather(
+            *(parse_single_product(product) for product in products)
+        )
 
         formatted_results = "\n".join(map(str, result_of_page))
         print(f"Results for Page {page_num}:\n{formatted_results}")
@@ -75,6 +79,6 @@ async def get_products():
     await parse_page(last_page)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     result = asyncio.run(get_products())
     print(result)

@@ -144,3 +144,505 @@
 2024-11-07 13:35:15,437 INFO HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=19 "HTTP/1.1 200 OK"
 2024-11-07 13:35:15,453 INFO Start parsing page number 20
 2024-11-07 13:35:15,769 INFO HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=20 "HTTP/1.1 200 OK"
+2024-11-07 13:36:20,491 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops "HTTP/1.1 200 OK"
+2024-11-07 13:36:20,505 [    INFO] Start parsing page #1
+2024-11-07 13:36:20,824 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=1 "HTTP/1.1 200 OK"
+2024-11-07 13:36:20,840 [    INFO] Start parsing page #2
+2024-11-07 13:36:21,150 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2 "HTTP/1.1 200 OK"
+2024-11-07 13:36:21,167 [    INFO] Start parsing page #3
+2024-11-07 13:36:21,476 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=3 "HTTP/1.1 200 OK"
+2024-11-07 13:36:21,491 [    INFO] Start parsing page #4
+2024-11-07 13:36:21,806 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=4 "HTTP/1.1 200 OK"
+2024-11-07 13:36:21,822 [    INFO] Start parsing page #5
+2024-11-07 13:36:22,134 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=5 "HTTP/1.1 200 OK"
+2024-11-07 13:36:22,150 [    INFO] Start parsing page #6
+2024-11-07 13:36:22,469 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=6 "HTTP/1.1 200 OK"
+2024-11-07 13:36:22,484 [    INFO] Start parsing page #7
+2024-11-07 13:36:22,800 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=7 "HTTP/1.1 200 OK"
+2024-11-07 13:36:22,816 [    INFO] Start parsing page #8
+2024-11-07 13:36:23,131 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=8 "HTTP/1.1 200 OK"
+2024-11-07 13:36:23,146 [    INFO] Start parsing page #9
+2024-11-07 13:36:23,466 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=9 "HTTP/1.1 200 OK"
+2024-11-07 13:36:23,482 [    INFO] Start parsing page #10
+2024-11-07 13:36:23,793 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=10 "HTTP/1.1 200 OK"
+2024-11-07 13:36:23,808 [    INFO] Start parsing page #11
+2024-11-07 13:36:24,129 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=11 "HTTP/1.1 200 OK"
+2024-11-07 13:36:24,144 [    INFO] Start parsing page #12
+2024-11-07 13:36:24,457 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=12 "HTTP/1.1 200 OK"
+2024-11-07 13:36:24,473 [    INFO] Start parsing page #13
+2024-11-07 13:36:24,788 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=13 "HTTP/1.1 200 OK"
+2024-11-07 13:36:24,803 [    INFO] Start parsing page #14
+2024-11-07 13:36:25,112 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=14 "HTTP/1.1 200 OK"
+2024-11-07 13:36:25,130 [    INFO] Start parsing page #15
+2024-11-07 13:36:25,526 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=15 "HTTP/1.1 200 OK"
+2024-11-07 13:36:25,542 [    INFO] Start parsing page #16
+2024-11-07 13:36:25,890 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=16 "HTTP/1.1 200 OK"
+2024-11-07 13:36:25,919 [    INFO] Start parsing page #17
+2024-11-07 13:36:26,229 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=17 "HTTP/1.1 200 OK"
+2024-11-07 13:36:26,243 [    INFO] Start parsing page #18
+2024-11-07 13:36:26,566 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=18 "HTTP/1.1 200 OK"
+2024-11-07 13:36:26,581 [    INFO] Start parsing page #19
+2024-11-07 13:36:26,899 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=19 "HTTP/1.1 200 OK"
+2024-11-07 13:36:26,915 [    INFO] Start parsing page #20
+2024-11-07 13:36:27,229 [    INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=20 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:34,483     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops "HTTP/1.1 200 OK"
+[2024-11-07 13:36:34,497     INFO] Start parsing page #1
+[2024-11-07 13:36:34,813     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=1 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:34,829     INFO] Start parsing page #2
+[2024-11-07 13:36:35,147     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:35,162     INFO] Start parsing page #3
+[2024-11-07 13:36:35,478     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=3 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:35,494     INFO] Start parsing page #4
+[2024-11-07 13:36:35,809     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=4 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:35,824     INFO] Start parsing page #5
+[2024-11-07 13:36:36,139     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=5 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:36,156     INFO] Start parsing page #6
+[2024-11-07 13:36:36,474     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=6 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:36,489     INFO] Start parsing page #7
+[2024-11-07 13:36:36,802     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=7 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:36,819     INFO] Start parsing page #8
+[2024-11-07 13:36:37,136     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=8 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:37,151     INFO] Start parsing page #9
+[2024-11-07 13:36:37,468     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=9 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:37,485     INFO] Start parsing page #10
+[2024-11-07 13:36:37,808     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=10 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:37,823     INFO] Start parsing page #11
+[2024-11-07 13:36:38,138     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=11 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:38,153     INFO] Start parsing page #12
+[2024-11-07 13:36:38,476     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=12 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:38,492     INFO] Start parsing page #13
+[2024-11-07 13:36:38,804     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=13 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:38,819     INFO] Start parsing page #14
+[2024-11-07 13:36:39,137     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=14 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:39,152     INFO] Start parsing page #15
+[2024-11-07 13:36:39,463     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=15 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:39,479     INFO] Start parsing page #16
+[2024-11-07 13:36:39,789     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=16 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:39,818     INFO] Start parsing page #17
+[2024-11-07 13:36:40,134     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=17 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:40,149     INFO] Start parsing page #18
+[2024-11-07 13:36:40,464     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=18 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:40,478     INFO] Start parsing page #19
+[2024-11-07 13:36:40,794     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=19 "HTTP/1.1 200 OK"
+[2024-11-07 13:36:40,810     INFO] Start parsing page #20
+[2024-11-07 13:36:41,122     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=20 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:37,773    DEBUG] Using proactor: IocpProactor
+[2024-11-07 13:37:37,778    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:37,779    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:38,083    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:38,109    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4B1BA300>
+[2024-11-07 13:37:38,109    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4B4D5850> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:38,121    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4B26D010>
+[2024-11-07 13:37:38,121    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,121    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:38,122    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,122    DEBUG] send_request_body.complete
+[2024-11-07 13:37:38,122    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,462    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:38 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-SNk77ec8xxX7njqIKfo1vzhUaWivvpuu';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:38 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 4dae9c76868466a459f66bf2b04e4854.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'JPNdJlp5rWSs2tmha6wS0CzAWuW6Pvoex50w9oooTeui15oS3W64eQ==')])
+[2024-11-07 13:37:38,463     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops "HTTP/1.1 200 OK"
+[2024-11-07 13:37:38,463    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,464    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:38,464    DEBUG] response_closed.started
+[2024-11-07 13:37:38,464    DEBUG] response_closed.complete
+[2024-11-07 13:37:38,464    DEBUG] close.started
+[2024-11-07 13:37:38,464    DEBUG] close.complete
+[2024-11-07 13:37:38,478     INFO] Start parsing page #1
+[2024-11-07 13:37:38,478    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:38,478    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:38,771    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:38,776    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4B0B6870>
+[2024-11-07 13:37:38,776    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C11DDD0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:38,786    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4B52FEC0>
+[2024-11-07 13:37:38,786    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,786    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:38,786    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:38,786    DEBUG] send_request_body.complete
+[2024-11-07 13:37:38,786    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,114    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:39 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-2OUHq26ickVPXXZOhbmNRLLeIlTCz94x';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:39 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 97e64cb9a8cb2e27f853f08a9b334f96.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'y6BMyLhnDj54gxZQmk78Ls629rZN2TNCA1B4h2_VM0hW62PROY_AOQ==')])
+[2024-11-07 13:37:39,115     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=1 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:39,115    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,115    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:39,115    DEBUG] response_closed.started
+[2024-11-07 13:37:39,116    DEBUG] response_closed.complete
+[2024-11-07 13:37:39,116    DEBUG] close.started
+[2024-11-07 13:37:39,116    DEBUG] close.complete
+[2024-11-07 13:37:39,131     INFO] Start parsing page #2
+[2024-11-07 13:37:39,132    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:39,132    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:39,432    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:39,436    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C1B25A0>
+[2024-11-07 13:37:39,436    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C199C50> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:39,461    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C1B24E0>
+[2024-11-07 13:37:39,461    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,462    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:39,462    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,462    DEBUG] send_request_body.complete
+[2024-11-07 13:37:39,462    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,791    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:40 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-B0Q6zmq8fKz0MMKuwovUTVBJNAy8LL3x';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:40 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 2b90933536a16ec4a169497a31947a76.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'snx83kCQoArNDJJ9a4fcyhdlEUrpfHNdTDdFeRP34yQF-Rv89Cp-bw==')])
+[2024-11-07 13:37:39,791     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:39,792    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:39,792    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:39,792    DEBUG] response_closed.started
+[2024-11-07 13:37:39,792    DEBUG] response_closed.complete
+[2024-11-07 13:37:39,792    DEBUG] close.started
+[2024-11-07 13:37:39,792    DEBUG] close.complete
+[2024-11-07 13:37:39,808     INFO] Start parsing page #3
+[2024-11-07 13:37:39,808    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:39,809    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:40,100    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:40,106    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C21ECC0>
+[2024-11-07 13:37:40,106    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C219950> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:40,116    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C21EC00>
+[2024-11-07 13:37:40,116    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,117    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:40,117    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,117    DEBUG] send_request_body.complete
+[2024-11-07 13:37:40,117    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,442    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:40 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-Xrg6G6TofARjDSkM5hcIt7EF9cT8Gu3Y';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:40 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 b786785c2b438022738ad59ea5d98818.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'CDRxUu5fBAliUUdlVa02dQNybvC7G_zLJHUEarjWn-TX6HEBTDETHA==')])
+[2024-11-07 13:37:40,443     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=3 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:40,443    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,443    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:40,443    DEBUG] response_closed.started
+[2024-11-07 13:37:40,444    DEBUG] response_closed.complete
+[2024-11-07 13:37:40,444    DEBUG] close.started
+[2024-11-07 13:37:40,444    DEBUG] close.complete
+[2024-11-07 13:37:40,457     INFO] Start parsing page #4
+[2024-11-07 13:37:40,458    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:40,458    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:40,759    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:40,765    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C29B2F0>
+[2024-11-07 13:37:40,765    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C2917D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:40,777    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C21E2D0>
+[2024-11-07 13:37:40,777    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,777    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:40,777    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:40,777    DEBUG] send_request_body.complete
+[2024-11-07 13:37:40,778    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,104    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:41 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-Fsi12lWfqY5b7tjPBnJVnfrH9krC7wo3';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:41 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 c06aa2ede3260638d08a4102b786cdfc.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'aNKz16HbefDpYnmiTdeHktdhKZTo7wRozZSV_EmhlfxOdqNhuGD53g==')])
+[2024-11-07 13:37:41,104     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=4 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:41,104    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,104    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:41,105    DEBUG] response_closed.started
+[2024-11-07 13:37:41,105    DEBUG] response_closed.complete
+[2024-11-07 13:37:41,105    DEBUG] close.started
+[2024-11-07 13:37:41,105    DEBUG] close.complete
+[2024-11-07 13:37:41,120     INFO] Start parsing page #5
+[2024-11-07 13:37:41,120    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:41,120    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:41,424    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:41,428    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C3075C0>
+[2024-11-07 13:37:41,428    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C311350> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:41,439    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C3074D0>
+[2024-11-07 13:37:41,440    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,440    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:41,440    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,440    DEBUG] send_request_body.complete
+[2024-11-07 13:37:41,440    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,765    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:42 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-4sjysUX7LTn8p2V4MVrG40HrAdGFRr3l';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:42 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 97e64cb9a8cb2e27f853f08a9b334f96.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'IA5k7kQa6D5UQvATEXYUCWU9Dabrofvhwo6Sq6gJ2HCW7h7sAO37-A==')])
+[2024-11-07 13:37:41,765     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=5 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:41,766    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:41,766    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:41,766    DEBUG] response_closed.started
+[2024-11-07 13:37:41,767    DEBUG] response_closed.complete
+[2024-11-07 13:37:41,767    DEBUG] close.started
+[2024-11-07 13:37:41,767    DEBUG] close.complete
+[2024-11-07 13:37:41,782     INFO] Start parsing page #6
+[2024-11-07 13:37:41,783    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:41,783    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:42,075    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:42,080    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C26B9E0>
+[2024-11-07 13:37:42,080    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C3113D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:42,087    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C26B950>
+[2024-11-07 13:37:42,088    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,089    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:42,089    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,089    DEBUG] send_request_body.complete
+[2024-11-07 13:37:42,089    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,242    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:42 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-a9HkYs1pmuABPiKvKbFGEhuBgYKo4hpW';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:42 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 06c9d31774b0fe3f469f91426c104306.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'l7fvJAFPgaMYh94eqUqsS8CLuYrcnqnO36LouH1eJxp9Z0k_MWO0Fw==')])
+[2024-11-07 13:37:42,242     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=6 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:42,242    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,243    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:42,243    DEBUG] response_closed.started
+[2024-11-07 13:37:42,243    DEBUG] response_closed.complete
+[2024-11-07 13:37:42,243    DEBUG] close.started
+[2024-11-07 13:37:42,243    DEBUG] close.complete
+[2024-11-07 13:37:42,258     INFO] Start parsing page #7
+[2024-11-07 13:37:42,258    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:42,258    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:42,550    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:42,556    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C253FB0>
+[2024-11-07 13:37:42,556    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C37D4D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:42,564    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C253EC0>
+[2024-11-07 13:37:42,565    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,565    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:42,565    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,565    DEBUG] send_request_body.complete
+[2024-11-07 13:37:42,565    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,892    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:43 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-7UWKYAkYuS6ioI1HDcCZmWf9fXa4WyB9';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:43 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 37ae9b58b403c8aa72a90cba24bc62fe.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'FhPB7NRF9TlvKhPisNK3Tt8fjWvwR4fP0zCcS0pR9FTOVzFVbB11TA==')])
+[2024-11-07 13:37:42,892     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=7 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:42,893    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:42,893    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:42,893    DEBUG] response_closed.started
+[2024-11-07 13:37:42,893    DEBUG] response_closed.complete
+[2024-11-07 13:37:42,893    DEBUG] close.started
+[2024-11-07 13:37:42,894    DEBUG] close.complete
+[2024-11-07 13:37:42,909     INFO] Start parsing page #8
+[2024-11-07 13:37:42,909    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:42,910    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:43,206    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:43,212    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C4148F0>
+[2024-11-07 13:37:43,212    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C3F9650> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:43,223    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C414800>
+[2024-11-07 13:37:43,224    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,224    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:43,224    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,224    DEBUG] send_request_body.complete
+[2024-11-07 13:37:43,224    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,563    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:44 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-YXw0VruL4hZgQPkfH5VthEy8LQR4joM4';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:44 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 eb0a622ec3e2c82defe8970833826024.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'mVDDMUpR9TXv7UUeNuw0WU94Y4EQEThfPAdmV4FsMXzxfhuhMHkpgA==')])
+[2024-11-07 13:37:43,563     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=8 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:43,563    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,564    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:43,564    DEBUG] response_closed.started
+[2024-11-07 13:37:43,564    DEBUG] response_closed.complete
+[2024-11-07 13:37:43,564    DEBUG] close.started
+[2024-11-07 13:37:43,564    DEBUG] close.complete
+[2024-11-07 13:37:43,579     INFO] Start parsing page #9
+[2024-11-07 13:37:43,580    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:43,580    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:43,870    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:43,875    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C47D0A0>
+[2024-11-07 13:37:43,875    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C469750> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:43,885    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C47CFB0>
+[2024-11-07 13:37:43,885    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,886    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:43,886    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:43,886    DEBUG] send_request_body.complete
+[2024-11-07 13:37:43,886    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,219    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:44 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-jLPepdvDZa17BqzLYRepV8jNnZyXOWbd';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:44 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 37ae9b58b403c8aa72a90cba24bc62fe.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'3Ye-OK17gMS_IhGZTk8iGSGeCLC_WDoxgBw-6PNrHbK8MNlXrh3y6A==')])
+[2024-11-07 13:37:44,219     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=9 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:44,220    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,220    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:44,220    DEBUG] response_closed.started
+[2024-11-07 13:37:44,220    DEBUG] response_closed.complete
+[2024-11-07 13:37:44,220    DEBUG] close.started
+[2024-11-07 13:37:44,220    DEBUG] close.complete
+[2024-11-07 13:37:44,235     INFO] Start parsing page #10
+[2024-11-07 13:37:44,235    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:44,236    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:44,528    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:44,538    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C253440>
+[2024-11-07 13:37:44,538    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C37E4D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:44,548    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C253560>
+[2024-11-07 13:37:44,548    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,548    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:44,548    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,548    DEBUG] send_request_body.complete
+[2024-11-07 13:37:44,548    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,890    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:45 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-Ng9syitImQXV7nv1QlpiSNPiGwSoKbVc';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:45 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 e1cbeb53ecac8d22eb72c392510efd7c.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'NbszeIFx7_iiSpGj7gB86hS_Qh81BGqE2s-Hj_Z_OOvPazBe79qrrw==')])
+[2024-11-07 13:37:44,890     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=10 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:44,890    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:44,891    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:44,891    DEBUG] response_closed.started
+[2024-11-07 13:37:44,891    DEBUG] response_closed.complete
+[2024-11-07 13:37:44,891    DEBUG] close.started
+[2024-11-07 13:37:44,891    DEBUG] close.complete
+[2024-11-07 13:37:44,906     INFO] Start parsing page #11
+[2024-11-07 13:37:44,906    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:44,907    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:45,196    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:45,202    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C49D280>
+[2024-11-07 13:37:45,202    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C37E050> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:45,211    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C49D190>
+[2024-11-07 13:37:45,212    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,212    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:45,212    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,212    DEBUG] send_request_body.complete
+[2024-11-07 13:37:45,212    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,563    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:46 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-BxQrH8oEEQio18RtAJvJnFRwKYbEbf0J';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:46 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 546ef9cf84e3a4c74e1e683713dd2fe8.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'sdAUr8gYVuDegju5FRo_2rSoJavOb98iBQIlS3YSxnPU6aoXgdLcDg==')])
+[2024-11-07 13:37:45,563     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=11 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:45,564    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,564    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:45,564    DEBUG] response_closed.started
+[2024-11-07 13:37:45,564    DEBUG] response_closed.complete
+[2024-11-07 13:37:45,564    DEBUG] close.started
+[2024-11-07 13:37:45,565    DEBUG] close.complete
+[2024-11-07 13:37:45,580     INFO] Start parsing page #12
+[2024-11-07 13:37:45,580    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:45,580    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:45,872    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:45,877    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C4F1AF0>
+[2024-11-07 13:37:45,877    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C3AD3D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:45,890    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C4F1A00>
+[2024-11-07 13:37:45,890    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,890    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:45,890    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:45,890    DEBUG] send_request_body.complete
+[2024-11-07 13:37:45,890    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,238    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:46 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-1vyVOJrcGHlw3btXKf6agH6I3k1oBxqM';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:46 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 d056c091eefb07376350368f992d1b38.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'JLPAI4iqEdS56H8m_8siEPC7AKz_cOOxaXkxht3xq0sHLPWydk9DLw==')])
+[2024-11-07 13:37:46,239     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=12 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:46,239    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,239    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:46,239    DEBUG] response_closed.started
+[2024-11-07 13:37:46,239    DEBUG] response_closed.complete
+[2024-11-07 13:37:46,240    DEBUG] close.started
+[2024-11-07 13:37:46,240    DEBUG] close.complete
+[2024-11-07 13:37:46,255     INFO] Start parsing page #13
+[2024-11-07 13:37:46,255    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:46,256    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:46,545    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:46,550    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C2684D0>
+[2024-11-07 13:37:46,550    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C4E53D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:46,559    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C268260>
+[2024-11-07 13:37:46,559    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,559    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:46,559    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,560    DEBUG] send_request_body.complete
+[2024-11-07 13:37:46,560    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,716    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:47 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-j2Uv7oSwu0XTMWj4TLfetkVOZQwusHRa';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:47 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 b786785c2b438022738ad59ea5d98818.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'cZysjO_Ngupn6HCX1e4kNNy0dCfkFzt1NujzFEZEITpxXSjMUiKscA==')])
+[2024-11-07 13:37:46,716     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=13 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:46,716    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:46,717    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:46,717    DEBUG] response_closed.started
+[2024-11-07 13:37:46,717    DEBUG] response_closed.complete
+[2024-11-07 13:37:46,717    DEBUG] close.started
+[2024-11-07 13:37:46,717    DEBUG] close.complete
+[2024-11-07 13:37:46,731     INFO] Start parsing page #14
+[2024-11-07 13:37:46,732    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:46,732    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:47,021    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:47,026    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C569F70>
+[2024-11-07 13:37:47,026    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C55D150> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:47,036    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C569E80>
+[2024-11-07 13:37:47,036    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,037    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:47,037    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,037    DEBUG] send_request_body.complete
+[2024-11-07 13:37:47,037    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,188    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:47 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-yzpP91wdz18PNU3GnVXohfO0COlBDpz0';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:47 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 695ddd780581acd9820e7c6c6fb8d0e8.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'F2iM8RC38DwSXDX64xUlSqkdANnfAQQBhwmMmbNKqdYog-CDVkYiGg==')])
+[2024-11-07 13:37:47,189     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=14 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:47,189    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,189    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:47,189    DEBUG] response_closed.started
+[2024-11-07 13:37:47,189    DEBUG] response_closed.complete
+[2024-11-07 13:37:47,189    DEBUG] close.started
+[2024-11-07 13:37:47,190    DEBUG] close.complete
+[2024-11-07 13:37:47,203     INFO] Start parsing page #15
+[2024-11-07 13:37:47,203    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:47,204    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:47,495    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:47,500    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C5DE540>
+[2024-11-07 13:37:47,500    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C5D9250> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:47,510    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C5DE450>
+[2024-11-07 13:37:47,511    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,511    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:47,511    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,511    DEBUG] send_request_body.complete
+[2024-11-07 13:37:47,511    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,916    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:48 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-I7aSAmpUgkpcmROKaK0zXtPmegeKSOgc';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:48 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 991b7248c105e42616c4588c3ae2a086.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'jMejiXw2aaizHdDNyGtoOUVkCi8JyoteTV3S9JxY-MU2u905TkWGjA==')])
+[2024-11-07 13:37:47,917     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=15 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:47,917    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:47,917    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:47,917    DEBUG] response_closed.started
+[2024-11-07 13:37:47,917    DEBUG] response_closed.complete
+[2024-11-07 13:37:47,917    DEBUG] close.started
+[2024-11-07 13:37:47,919    DEBUG] close.complete
+[2024-11-07 13:37:47,933     INFO] Start parsing page #16
+[2024-11-07 13:37:47,933    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:47,933    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:48,222    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:48,228    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C64A960>
+[2024-11-07 13:37:48,228    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C654ED0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:48,239    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C64A870>
+[2024-11-07 13:37:48,239    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,239    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:48,239    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,240    DEBUG] send_request_body.complete
+[2024-11-07 13:37:48,240    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,395    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:48 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-p4wtLn0jcHw8xDludFc74KQ1r0d9icHe';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:48 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 01548e7bfc27001a9db5f5f486dc2c66.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'X7jBrK8wIW_XDazYUog6_pMi0lxi_kDXh_P6R2dJOei-eaZr6x2uPg==')])
+[2024-11-07 13:37:48,396     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=16 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:48,396    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,396    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:48,396    DEBUG] response_closed.started
+[2024-11-07 13:37:48,396    DEBUG] response_closed.complete
+[2024-11-07 13:37:48,396    DEBUG] close.started
+[2024-11-07 13:37:48,397    DEBUG] close.complete
+[2024-11-07 13:37:48,428     INFO] Start parsing page #17
+[2024-11-07 13:37:48,428    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:48,429    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:48,720    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:48,725    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C417950>
+[2024-11-07 13:37:48,725    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C3F9550> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:48,736    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C417470>
+[2024-11-07 13:37:48,736    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,736    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:48,737    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:48,737    DEBUG] send_request_body.complete
+[2024-11-07 13:37:48,737    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,061    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:49 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-JRtjsjx2FflC5itbLxWwggjGV8xwihXm';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:49 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 80e24ce556086e805cf92c8a731e137a.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'XDuAOABBWxyWQoubsOZoIcMNkZV8FbTjm4OcqzGccZ1ynClhdorwIA==')])
+[2024-11-07 13:37:49,062     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=17 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:49,062    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,062    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:49,062    DEBUG] response_closed.started
+[2024-11-07 13:37:49,062    DEBUG] response_closed.complete
+[2024-11-07 13:37:49,063    DEBUG] close.started
+[2024-11-07 13:37:49,063    DEBUG] close.complete
+[2024-11-07 13:37:49,077     INFO] Start parsing page #18
+[2024-11-07 13:37:49,078    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:49,078    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:49,366    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:49,372    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C304500>
+[2024-11-07 13:37:49,372    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C19A850> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:49,381    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C304050>
+[2024-11-07 13:37:49,381    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,381    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:49,381    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,381    DEBUG] send_request_body.complete
+[2024-11-07 13:37:49,382    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,802    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:50 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-3IqZgL3DhCalwyQzdKXkuFmgYhvjXduo';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:50 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 b786785c2b438022738ad59ea5d98818.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'_AikBTg9TaywWUt4MUO3JroMRU-2E_WmSUOkDz1TU2Ze11h3Og0fNw==')])
+[2024-11-07 13:37:49,802     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=18 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:49,803    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:49,804    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:49,804    DEBUG] response_closed.started
+[2024-11-07 13:37:49,804    DEBUG] response_closed.complete
+[2024-11-07 13:37:49,804    DEBUG] close.started
+[2024-11-07 13:37:49,804    DEBUG] close.complete
+[2024-11-07 13:37:49,819     INFO] Start parsing page #19
+[2024-11-07 13:37:49,819    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:49,820    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:50,126    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:50,130    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C184980>
+[2024-11-07 13:37:50,130    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C290C50> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:50,139    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C184A70>
+[2024-11-07 13:37:50,139    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,140    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:50,140    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,140    DEBUG] send_request_body.complete
+[2024-11-07 13:37:50,140    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,286    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:50 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-pmThHdPa2xodzcIiDtadk7aLHRUlpZPJ';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=featurette_animations; expires=Sat, 07 Dec 2024 11:37:50 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 60c8f8d4de5a35459e0055fc9ba6a424.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'1N4RSDS4uwv1auWV6sOq-EvXsqYUctCNH_w4k7JpoMaHVPnqmr23Cg==')])
+[2024-11-07 13:37:50,286     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=19 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:50,286    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,287    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:50,287    DEBUG] response_closed.started
+[2024-11-07 13:37:50,287    DEBUG] response_closed.complete
+[2024-11-07 13:37:50,287    DEBUG] close.started
+[2024-11-07 13:37:50,287    DEBUG] close.complete
+[2024-11-07 13:37:50,302     INFO] Start parsing page #20
+[2024-11-07 13:37:50,302    DEBUG] load_ssl_context verify=True cert=None trust_env=True http2=False
+[2024-11-07 13:37:50,303    DEBUG] load_verify_locations cafile='C:\\portfolio-projects\\webscraping\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+[2024-11-07 13:37:50,595    DEBUG] connect_tcp.started host='webscraper.io' port=443 local_address=None timeout=5.0 socket_options=None
+[2024-11-07 13:37:50,600    DEBUG] connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C3064B0>
+[2024-11-07 13:37:50,601    DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020F4C2908D0> server_hostname='webscraper.io' timeout=5.0
+[2024-11-07 13:37:50,613    DEBUG] start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x0000020F4C306960>
+[2024-11-07 13:37:50,613    DEBUG] send_request_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,613    DEBUG] send_request_headers.complete
+[2024-11-07 13:37:50,613    DEBUG] send_request_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,613    DEBUG] send_request_body.complete
+[2024-11-07 13:37:50,613    DEBUG] receive_response_headers.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,941    DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/html; charset=UTF-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Thu, 07 Nov 2024 11:37:51 GMT'), (b'Cache-Control', b'max-age=300, public'), (b'Content-Security-Policy', b"report-uri /report-csp;default-src 'self';connect-src 'self' https:;script-src 'self' https://*.googletagmanager.com 'nonce-JdOFHbM6y4WHdDRxTJYQ8pk1dWTQAmCU';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;font-src 'self' https://fonts.gstatic.com;frame-src 'self' https://www.youtube-nocookie.com https://*.googletagmanager.com;img-src 'self' data: https:;report-to report-to-csp-group"), (b'Report-To', b'{"group":"report-to-csp-group","max_age":432000,"endpoints":[{"url":"https:\\/\\/webscraper.io\\/report-csp"}]}'), (b'Set-Cookie', b'test=original_featurette_animations; expires=Sat, 07 Dec 2024 11:37:51 GMT; Max-Age=2592000; path=/; domain=.webscraper.io; secure; samesite=lax'), (b'X-Frame-Options', b'SAMEORIGIN'), (b'Strict-Transport-Security', b'max-age=47474747; includeSubDomains; preload'), (b'Referrer-Policy', b'same-origin'), (b'X-Content-Type-Options', b'nosniff'), (b'Permissions-Policy', b'camera=(), geolocation=(), microphone=()'), (b'Content-Encoding', b'gzip'), (b'Vary', b'Accept-Encoding'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 97e64cb9a8cb2e27f853f08a9b334f96.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'HEL51-P4'), (b'Alt-Svc', b'h3=":443"; ma=86400'), (b'X-Amz-Cf-Id', b'_tga0UcU4klYHlyY_tGrNFcD_iPLi6OeX3nfaOBBoA4mDcgCj6T9Mw==')])
+[2024-11-07 13:37:50,941     INFO] HTTP Request: GET https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=20 "HTTP/1.1 200 OK"
+[2024-11-07 13:37:50,941    DEBUG] receive_response_body.started request=<Request [b'GET']>
+[2024-11-07 13:37:50,942    DEBUG] receive_response_body.complete
+[2024-11-07 13:37:50,942    DEBUG] response_closed.started
+[2024-11-07 13:37:50,942    DEBUG] response_closed.complete
+[2024-11-07 13:37:50,942    DEBUG] close.started
+[2024-11-07 13:37:50,942    DEBUG] close.complete

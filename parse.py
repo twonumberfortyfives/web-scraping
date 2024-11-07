@@ -1,13 +1,24 @@
 import asyncio
+import logging
+import sys
 from dataclasses import dataclass
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 import httpx
-from numba import njit
 
 URL = "https://webscraper.io/"
 HOME_URL = urljoin(URL, "test-sites/e-commerce/static/computers/laptops")
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    handlers=[
+        logging.FileHandler("parser.log"),
+        logging.StreamHandler(sys.stdout),
+    ]
+)
 
 
 @dataclass
@@ -45,6 +56,7 @@ async def get_num_pages(page_soup: BeautifulSoup) -> int:
 
 async def parse_page(last_page: int):
     for page_num in range(1, last_page + 1):
+        logging.info(f"Start parsing page #{page_num}")
         page_content = await get_content_from_url(HOME_URL + f"?page={page_num}")
         soup = BeautifulSoup(page_content, "html.parser")
         products = soup.select(".thumbnail")  # calling css selector
@@ -54,8 +66,6 @@ async def parse_page(last_page: int):
         formatted_results = "\n".join(map(str, result_of_page))
         print(f"Results for Page {page_num}:\n{formatted_results}")
 
-        # print(f"PAGE NUMBER {page_num}" + f"{[await parse_single_product(product) for product in products]}")
-
 
 async def get_products():
     page_content = await get_content_from_url(HOME_URL)
@@ -63,13 +73,6 @@ async def get_products():
 
     last_page = await get_num_pages(soup)
     await parse_page(last_page)
-
-
-async def main():
-    page_content = await get_content_from_url(HOME_URL)
-    soup = BeautifulSoup(page_content, "html.parser")
-    products = soup.select(".thumbnail")  # calling css selector
-    return products
 
 
 if __name__ == '__main__':

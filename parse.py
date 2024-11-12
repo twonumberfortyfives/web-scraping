@@ -6,9 +6,24 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 import httpx
+from selenium import webdriver
+from selenium.webdriver.chrome.webdriver import WebDriver
+from selenium.webdriver.common.by import By
 
 URL = "https://webscraper.io/"
 HOME_URL = urljoin(URL, "test-sites/e-commerce/static/computers/laptops")
+
+
+_driver: WebDriver | None = None
+
+
+def get_driver() -> WebDriver:  # worse but easiest way to fix browser opening in every operation
+    return _driver
+
+
+def set_driver(new_driver: WebDriver) -> None:
+    global _driver
+    _driver = new_driver
 
 
 logging.basicConfig(
@@ -28,6 +43,7 @@ class Product:
     price: float
     rating: int
     num_of_reviews: int
+    additional_info: dict
 
 
 async def get_content_from_url(url):
@@ -37,7 +53,24 @@ async def get_content_from_url(url):
         return response.content  # returns raw bytes
 
 
+def parse_hdd_block_prices(product_soup: BeautifulSoup) -> dict[str, float]:
+    detailed_url = urljoin(URL, product_soup.select_one(".title")["href"])
+    driver = get_driver()
+    driver.get(detailed_url)
+    swatches = driver.find_element(By.CLASS_NAME, "swatches")
+    buttons = swatches.find_elements(By.TAG_NAME, "button")
+
+    prices = {}
+    for button in buttons:
+        if not button.get_property("disabled"):
+            button.click()
+            prices[button.get_property("value")] = float(driver.find_element(By.CLASS_NAME, "price").text.replace("$", ""))
+    return prices
+
+
 async def parse_single_product(product_soup: BeautifulSoup) -> Product:
+    hdd_prices = parse_hdd_block_prices(product_soup)
+
     return Product(
         title=product_soup.select_one(".title")["title"],
         description=product_soup.select_one("p.description").text,
@@ -46,6 +79,7 @@ async def parse_single_product(product_soup: BeautifulSoup) -> Product:
         num_of_reviews=int(
             product_soup.select_one("p.review-count").text.replace("reviews", "")
         ),
+        additional_info={"hdd_prices": hdd_prices},
     )
 
 
@@ -72,11 +106,13 @@ async def parse_page(last_page: int):
 
 
 async def get_products():
-    page_content = await get_content_from_url(HOME_URL)
-    soup = BeautifulSoup(page_content, "html.parser")
+    with webdriver.Chrome() as new_driver:
+        set_driver(new_driver)
+        page_content = await get_content_from_url(HOME_URL)
+        soup = BeautifulSoup(page_content, "html.parser")
 
-    last_page = await get_num_pages(soup)
-    await parse_page(last_page)
+        last_page = await get_num_pages(soup)
+        await parse_page(last_page)
 
 
 if __name__ == "__main__":

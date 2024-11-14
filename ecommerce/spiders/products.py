@@ -16,3 +16,8 @@ class ProductsSpider(scrapy.Spider):
                 "rating": int(product.css('p[data-rating]::attr(data-rating)').get()),
                 "num_of_reviews": int(product.css('.ratings > p.review-count::text').get().replace(" reviews", "")),
             }
+
+        next_page = response.css(".pagination > li")[-1].css('a::attr(href)').get()
+        if next_page is not None:
+            yield response.follow(next_page, callback=self.parse)
+

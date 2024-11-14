@@ -17,7 +17,9 @@ HOME_URL = urljoin(URL, "test-sites/e-commerce/static/computers/laptops")
 _driver: WebDriver | None = None
 
 
-def get_driver() -> WebDriver:  # worse but easiest way to fix browser opening in every operation
+def get_driver() -> (
+    WebDriver
+):  # worse but easiest way to fix browser opening in every operation
     return _driver
 
 
@@ -64,7 +66,9 @@ def parse_hdd_block_prices(product_soup: BeautifulSoup) -> dict[str, float]:
     for button in buttons:
         if not button.get_property("disabled"):
             button.click()
-            prices[button.get_property("value")] = float(driver.find_element(By.CLASS_NAME, "price").text.replace("$", ""))
+            prices[button.get_property("value")] = float(
+                driver.find_element(By.CLASS_NAME, "price").text.replace("$", "")
+            )
     return prices
 
 

@@ -22,13 +22,20 @@ class QuotesSpider(scrapy.Spider):
 
     def parse(self, response: Response, **kwargs):
         for quote in response.css(".quote"):
-            yield {
+            author_url = response.urljoin(quote.css("span > a::attr(href)").get())
+
+            quote_data = {
                 "text": quote.css(".text::text").get(),
                 "author": quote.css(".author::text").get(),
                 # "author_info": self._parse_author_info(response, quote), Implementation with selenium
-                "author_info": self._parse_author_info(response, quote),
                 "tags": [tag.css(".tag::text").get() for tag in quote.css(".tag")]
             }
+
+            yield Request(
+                url=author_url,
+                callback=self.parse_author_page,
+                meta={"quote_data": quote_data}
+            )
 
         next_page = response.css(".next > a::attr(href)").get()
         if next_page:
@@ -46,12 +53,10 @@ class QuotesSpider(scrapy.Spider):
     #         "born_location": self.driver.find_element(By.CLASS_NAME, "author-born-location").text,
     #     }
 
-    def _parse_author_info(self, response: Response, product: Selector) -> Request:
-        detailed_url = response.urljoin(product.css("span > a::attr(href)").get())
-        yield Request(detailed_url, callback=self.parse_author_page)
-
-    def parse_author_page(self, response: Response) -> dict:
-        return {
+    def parse_author_page(self, response: Response):
+        quote_data = response.meta["quote_data"]
+        quote_data["author_info"] = {
             "born_date": response.css(".author-born-date::text").get(),
-            "born_location": response.css(".author-born-location::text").get(),
+            "born_location": response.css(".author-born-location::text").get().replace("in ", ""),
         }
+        yield quote_data

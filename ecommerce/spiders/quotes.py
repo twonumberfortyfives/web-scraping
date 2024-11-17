@@ -1,4 +1,3 @@
-
 import scrapy
 from scrapy import Selector, Request
 from scrapy.http import Response
@@ -9,9 +8,7 @@ from selenium.webdriver.common.by import By
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
     allowed_domains = ["quotes.toscrape.com"]
-    start_urls = [
-        "https://quotes.toscrape.com"
-    ]
+    start_urls = ["https://quotes.toscrape.com"]
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
@@ -28,13 +25,13 @@ class QuotesSpider(scrapy.Spider):
                 "text": quote.css(".text::text").get(),
                 "author": quote.css(".author::text").get(),
                 # "author_info": self._parse_author_info(response, quote), Implementation with selenium
-                "tags": [tag.css(".tag::text").get() for tag in quote.css(".tag")]
+                "tags": [tag.css(".tag::text").get() for tag in quote.css(".tag")],
             }
 
             yield Request(
                 url=author_url,
                 callback=self.parse_author_page,
-                meta={"quote_data": quote_data}
+                meta={"quote_data": quote_data},
             )
 
         next_page = response.css(".next > a::attr(href)").get()
@@ -57,6 +54,8 @@ class QuotesSpider(scrapy.Spider):
         quote_data = response.meta["quote_data"]
         quote_data["author_info"] = {
             "born_date": response.css(".author-born-date::text").get(),
-            "born_location": response.css(".author-born-location::text").get().replace("in ", ""),
+            "born_location": response.css(".author-born-location::text")
+            .get()
+            .replace("in ", ""),
         }
         yield quote_data
